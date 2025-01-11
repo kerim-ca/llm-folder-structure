@@ -5,8 +5,7 @@ Code Script to generate a markdown file of a tree structure of your folder struc
 
 ```shell 
 
-python3 structure-script.py 
-~/Documents/courseregistration1/course-registration1 --output ~/Documents/courseregistration1/course-registration1/projectdocs.md
+python3 structure-script.py ~/Documents/courseregistration1/course-registration1 --output ~/Documents/courseregistration1/course-registration1/projectdocs.md
 
 
 ```
